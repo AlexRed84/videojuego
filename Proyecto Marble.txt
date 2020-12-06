@@ -1,0 +1,2 @@
+empezar creando escenario
+crear obstáculos
